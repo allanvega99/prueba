@@ -16,6 +16,7 @@ public class Wea {
      */
     public static void main(String[] args) {
         //a la verga
+        int a = 0;
     }
     
 }
